@@ -5,7 +5,7 @@ Exercise for the course of Operating Systems at ECE AUTH
 
 ### `hash_script.sh` functionality
 
-This Bash script generates or accepts a 4-digit integer (*if no input is provided, a random 4-digit integer is generated*), computes its SHA-256 hash, and logs it to the file `hash_output.txt` ***if it doesn’t already exist***, ensuring that no duplicate entries for the same input.
+This Bash script generates or accepts a 4-digit integer (*if no input is provided, a random 4-digit integer is generated*), computes its SHA-256 hash, and logs it to the file `hash_output.txt` ***if it doesn’t already exist***, ensuring no duplicate entries for the same input.
 
 ---
 
